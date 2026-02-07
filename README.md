@@ -1,4 +1,5 @@
-# GitHub practice!
+# contributes
+-ira iakoze
 Hello everyone! This is a fun dummy repository to practice and hone your GitHub skills. We're going to be using GitHub a LOT, so it's important you get good at all of this.
 
 ## Setting it Up
