@@ -21,6 +21,7 @@ Basically, what this does is reaches out to GitHub and copies all of its content
 
 Congrats! Now, you have a repository on your computer. Usually, repositories cloned from the CogWorks group are full of interesting Jupyter Notebooks to read and complete, Python packages that do fun stuff, and much more! However, this one is pretty empty except for our README. We can change that, though!
 
+
 ## Adding Files
 Adding files to a local repository is the exact same way you'd add files to a folder, however adding it to the remote repository on GitHub takes a few steps. For the sake of practice, make a .txt file using your name (if your name is John Smith, something like john_smith.txt will work). To make it extra fun, write a joke! Nothing you would get attached to, because people are probably going to mess with these files while testing out the dummy repository. 
 
@@ -249,3 +250,5 @@ Here are some links to check out some more fun stuff to do with Github. Google c
 - https://git-scm.com/book/en/v2
 - https://help.github.com/articles/github-glossary/
 - https://guides.github.com/
+## Contributors
+- NSHUNGU NGABO KYLO
