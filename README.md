@@ -250,5 +250,5 @@ Here are some links to check out some more fun stuff to do with Github. Google c
 - https://help.github.com/articles/github-glossary/
 - https://guides.github.com/
 - ## Contributors
-- Ganza Kessy
+- Rutagengwa ganza kessy
 
