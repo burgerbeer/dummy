@@ -1,0 +1,25 @@
+```yaml
+# Payment API Configuration
+# This file is intentionally misconfigured for demo purposes
+# Rovo will detect and fix these errors automatically
+
+api:
+  # Connection pool settings
+  max_connections: 10          # BROKEN - Should be 50
+  
+  # Timeout configuration
+  timeout_seconds: 5           # BROKEN - Should be 30
+  
+  # Rate limiting
+  rate_limit: 100              # BROKEN - Should be 1000
+  
+  # Health check
+  health_check_enabled: false  # BROKEN - Should be true
+
+# Notes:
+# This configuration will cause:
+# - 500 errors on health check
+# - Connection pool exhaustion
+# - Request timeouts
+# - Failed health checks
+```
