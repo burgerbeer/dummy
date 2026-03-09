@@ -1,0 +1,5 @@
+api:
+  max_connections: 50
+  timeout_seconds: 30
+  rate_limit: 1000
+  health_check_enabled: true
