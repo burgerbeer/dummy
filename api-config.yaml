@@ -1,4 +1,3 @@
-```yaml
 # Payment API Configuration
 # This file is intentionally misconfigured for demo purposes
 # Rovo will detect and fix these errors automatically
@@ -22,4 +21,3 @@ api:
 # - Connection pool exhaustion
 # - Request timeouts
 # - Failed health checks
-```
